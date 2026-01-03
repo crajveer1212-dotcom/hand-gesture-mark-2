@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hand Gesture Mark 2</string>
+    
+    <!-- Permissions -->
+    <string name="camera_permission_required">Camera permission is required for hand tracking</string>
+    <string name="overlay_permission_required">Overlay permission is required for gesture feedback</string>
+    <string name="accessibility_permission_required">Accessibility permission is required to perform gestures</string>
+    
+    <!-- Main Activity -->
+    <string name="start_tracking">Start Tracking</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="status_ready">Ready to track hand gestures</string>
+    <string name="status_tracking">Tracking active</string>
+    <string name="status_no_hand">No hand detected</string>
+    <string name="status_hand_detected">Hand detected</string>
+    
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">Allows hand gesture control for tapping, swiping, and zooming using camera-based finger tracking</string>
+    
+    <!-- Instructions -->
+    <string name="instruction_point">Point finger and hold still for 1 second to tap</string>
+    <string name="instruction_swipe">Swipe left or right to scroll</string>
+    <string name="instruction_pinch">Pinch with thumb and index finger to zoom</string>
+    <string name="instruction_activate">Show two fingers to activate gestures</string>
+</resources>
